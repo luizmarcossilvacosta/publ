@@ -11,10 +11,10 @@ Template para portfólio de Data Science
 # Luiz Marcos
 <sub>*Data Scinece*  - Dados, números, gráficos e análise  uma paixão.</sub>
 
-Msc. Eng. Mecânico - Professor com larga experiência, trabalhando com disciplinas da área de exatas e engenharia mecânica. Grande experiência com condução de grupos. Atualmente lecionando na ABMMG e direcionando estudos para a análise de dados – Data Science.
+Msc. Eng. Mecânico - Professor com larga experiência, supletivo, segundo grau, superior e MBA's... trabalhando com disciplinas da área de exatas e engenharia mecânica. Grande experiência com condução de grupos. Atualmente lecionando na ABMMG e direcionando estudos para a análise de dados, área apaixonante e um futuro inevitável – Data Science.
 
 
-**Background in:** .
+**Background in:** Engenharia Mecânica, Ensino Superior.
 
 **Links:**
 * [LinkedIn]
@@ -22,6 +22,7 @@ Msc. Eng. Mecânico - Professor com larga experiência, trabalhando com discipli
 
 
 ## Projetos em Data Science:
+* 
 
 ---
 
