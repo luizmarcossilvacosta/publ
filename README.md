@@ -22,7 +22,7 @@ Msc. Eng. Mecânico - Professor com larga experiência, supletivo, segundo grau,
 
 
 ## Projetos em Data Science:
-* 
+* **ANÁLISE DA VIOLÊNCIA NA CIDADE DO RIO DE JANEIRO:** https://bit.ly/33d1SMY
 
 ---
 
