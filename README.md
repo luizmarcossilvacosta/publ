@@ -22,7 +22,7 @@ Msc. Eng. Mecânico - Professor com larga experiência, supletivo, segundo grau,
 
 
 ## Projetos em Data Science:
-* **ANÁLISE DA VIOLÊNCIA NA CIDADE DO RIO DE JANEIRO:** https://github.com/luizmarcossilvacosta/template_portfolio/commit/0db4c7ff2ef7ce1a0d375fa96b54e0530b2054a1
+* **ANÁLISE DA VIOLÊNCIA NA CIDADE DO RIO DE JANEIRO:** https://bit.ly/3xNCn2I
 ---
 
 
