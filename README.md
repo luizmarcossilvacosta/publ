@@ -19,7 +19,10 @@ Msc. Eng. Mecânico - Professor com larga experiência, supletivo, segundo grau,
 **Links:**
 * [LinkedIn]
 * [Medium]
-
+Exemplo | tmepo
+--------|-------
+Exemplo1| 4s
+Exemplo2| 5s
 
 ## Projetos em Data Science:
 * **ANÁLISE DA VIOLÊNCIA NA CIDADE DO RIO DE JANEIRO:** https://bit.ly/3xNCn2I
