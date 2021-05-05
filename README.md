@@ -19,6 +19,7 @@ Msc. Eng. Mecânico - Professor com larga experiência, supletivo, segundo grau,
 **Links:**
 * [LinkedIn]
 * [Medium]
+
 Exemplo | tmepo
 --------|-------
 Exemplo1| 4s
